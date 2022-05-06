@@ -3,7 +3,7 @@
 1. First make sure you have the most recent version of pip.
 
 ```
-py -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
 ```
 
 2. Install the data_justice package with the commands bellow.
