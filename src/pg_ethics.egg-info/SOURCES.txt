@@ -1,0 +1,10 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+src/data_justice/__init__.py
+src/data_justice/data_justice.py
+src/pg_ethics.egg-info/PKG-INFO
+src/pg_ethics.egg-info/SOURCES.txt
+src/pg_ethics.egg-info/dependency_links.txt
+src/pg_ethics.egg-info/top_level.txt
